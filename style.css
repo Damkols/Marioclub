@@ -81,9 +81,8 @@ nav li a:hover{
 
 main{
     max-width: 100%;
-    width: 1200px;
     margin: 40px auto;
-    padding: 40px 0;
+    padding: 40px;
 }
 
 main article h1{
@@ -98,7 +97,7 @@ main article p{
 .images{
     max-width: 100%;
     margin: 20px auto;
-    padding: 10px 0;
+    padding: 40px;
 }
 
 .images ul{
